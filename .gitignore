@@ -1,0 +1,12 @@
+build/
+__pycache__/
+*.pyc
+.venv/
+dfx_work/
+work/
+hw/
+out/
+*.bit
+*.dcp
+*.log
+*.jou
